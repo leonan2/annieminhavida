@@ -1,0 +1,62 @@
+#fts
+{
+      background-color: #FFFFFF;
+      width: 950px;
+      height: 600px;
+      margin: 50px 50px 50px 250px;
+      float:left;
+
+
+}
+
+#img1
+{
+      width:420px;
+      height:320px;
+      background:#676470;
+      transition:all 0.3s ease;
+      float: left;
+      margin-left: 5px;
+      margin-top: 5px;
+
+}
+
+#img2 {
+      width:420px;
+      height:320px;
+      background-color: #DCDCDC;
+      float: left;
+      transition:all 0.3s ease;
+      margin-left: 80px;
+      margin-top: 5px;
+
+}
+
+
+#img3 {
+      width:420px;
+      height:320px;
+      background-color:#696969;
+      float: left;
+      transition:all 0.3s ease;
+      margin-left: 5px;
+      margin-top: 50px;
+}
+
+
+#img4 {
+      width:420px;
+      height:320px;
+      background-color: #BEBEBE;
+      float: left;
+      transition:all 0.3s ease;
+      margin-left: 80px;
+      margin-top: 50px;
+}
+
+.grow:hover
+{
+      -webkit-transform: scale(1.3);
+      -ms-transform: scale(1.3);
+      transform: scale(1.3);
+}
