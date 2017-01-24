@@ -38,7 +38,7 @@
 
 
       </p>
-
+      <a href="fotos.php"> Nossas fotos! </a>
   </div>
 </div>
 
