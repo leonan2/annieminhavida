@@ -48,10 +48,13 @@
           usei essa vantagem para mostrar pra você o que é minha vida em relação a trabalho. Segundo, o quanto eu gosto de você e
           me expressar através daqui. Terceiro, para comemorar esse dia que conheci essa pessoa maravilhosa.
           Annie, sei que quer que eu mude um pouco e está certa, sim, tenho que mudar. Um homem como eu, como estou agora,
-          confuso e tudo mais não serve. Mas estou mudando, estou disposto a mudar, por você, por mim
-
-
-      </p>
+          confuso e tudo mais não serve. Mas estou mudando, estou disposto a mudar, por você, por mim.</p>
+    
+     <p>  Lembra quando eu disse pra você que eu vou estar do seu lado pra todos os problemas? Eu vou estar, te dando conselhos,
+          te apoiando, te dando colo, te dando carinho e todo meu amor pra você se confortar. Eu estou aqui pra você, só você. 
+          Tem muitos caminhos que traçaremos juntos, sempre juntos, se você quiser, eu estou aqui. </p>
+    
+                                                  <b>Eu te amo, Rosiane Freitas.</b>
 
   </div>
 </div>
