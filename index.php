@@ -22,11 +22,11 @@
           sendo aquele lá viu u.u). Eu olhei, você toda de branco pelo que me lembro, tava linda, seu cabelo
           maravilhoso, acho que um pouco mais claro que é hoje, não sei. Você desde do primeiro minuto até
           o final foi conversando comigo, eu só te ouvia, reparava no seu rosto, tava todo tímido, bastante
-          nervoso. Vi que realmente gostava muito de ler, sua paixão. Lembro que mexia no seu cabelo às vezes.
+          nervoso. Vi que realmente gostava muito de ler, sua paixão. Lembro que eu mexia no seu cabelo às vezes.
           Até que enfim, chegamos no shopping das escadas, sentamos, ficamos conversando... Você tinha curso
           e eu reparava na hora. Eu queria, ficar com você. Se eu não tomasse atitude, você não ia tomar (eu acho).
           Eu tentava e pensava: sera que ela vai deixar? continuar o beijo? me dar um fora? vai que ela me bata ali.
-          Não sei. Até que te segurei. Não sei porque fiz isso. Segurei não segurei? E beijei. Mágico. Ow! Seu beijo momento
+          Não sei. Até que te segurei. Não sei porque fiz isso. Segurei não segurei? E beijei. Mágico. Ow! Seu beijo 
           foi apertando minha boca HAHAHA, você beijava assim, não sei porque mudou, eu amei. De ai e até o próximo encontro demorou
           né? Teve carnaval e tudo mais. Eu demonstrando uma pequena quantidade de ciumes :X, enfim. Nossos momentos eles são sempre
           maravilhosos, sei que enjoa, shopping, shopping, shopping... eu sempre tento mudar sabe? mas estando com você
@@ -43,7 +43,7 @@
           Tenho muito medo de perder você. Você é uma pessoa bastante especial pra mim, soube me aguentar por tooooodo esse tempo,
           merece um bolo haha, to brincando! Mas é verdade. Sei que sou uma pessoa difícil de lidar, difícil de entender, dificil
           de me expressar e demonstrar o que sinto, mas não desista de mim. Apesar de eu parecer forte por fora, sem emoções.
-          Por dentro, estou explodindo de sentimentos. Basicamente, eu fiz esse pequeno presente, simples mas pra mostrar pra
+          Por dentro, estou explodindo de sentimentos. Basicamente, eu fiz esse pequeno presente, simples, mas pra mostrar pra
           você que queria saber um pouco mais de mim, primeiro, o que eu faço? Eu faço sistemas basicamente tipo esse pequeno site,
           usei essa vantagem para mostrar pra você o que é minha vida em relação a trabalho. Segundo, o quanto eu gosto de você e
           me expressar através daqui. Terceiro, para comemorar esse dia que conheci essa pessoa maravilhosa.
