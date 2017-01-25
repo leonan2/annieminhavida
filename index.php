@@ -57,7 +57,7 @@
                                                 <p class="decl">  <b>Eu te amo, Rosiane Freitas.</b>  <br>
                                                                          Volta pra mim? </p>
     
-    <a src="fotos.php"> Nossas fotos! </a>                                                     <p class="att"> Leonan Alves </p>
+    <p><a href="fotos.php"> Nossas fotos! </a> </p>                                                    <p class="att"> Leonan Alves </p>
 
   </div>
 </div>
