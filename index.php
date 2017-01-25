@@ -8,7 +8,7 @@
 <div id="container">
   <div id="principal">
 
-     <h4> Oi Annie, surpresa? eu fiz um pequeno site para você. </h4> <br>
+     <h4> Oi Annie, surpresa? eu fiz um pequeno site para você. </h4> 
      <p>  Eu queria algo diferente, simples e que demonstrasse
           como esse dia é especial para mim. O dia que conheci você <b>26/01/2016.</b>
           Se conhecemos antes né, no Tinder. Você não me respondia, procurei teu facebook,
@@ -33,12 +33,26 @@
           está bom para mim. Seu rosto, corpo, cabelo, pele, AAA! Só quero perto de mim. Você longe de mim, OW! Saudade
           que eu sinto, meu deus! </p>
 
-      <p> Desculpe ser um garoto tão chato, que não conversa, que não demonstra as emoções. Desculpe eu ser assim.
-          Desculpe te magoar. Desculpe por sempre estragar tudo. Me sinto mal, muito mal.
+      <p> Desculpe eu ser um cara estranho <br>
+          Desculpe eu ser um cara que não sabe conversar<br>
+          Desculpe eu ser chato<br>
+          Desculpa eu te chatear<br>
+          Desculpa eu te magoar<br>
+          Desculpa por tudo que fiz de ruim ao longo desse tempo mas o que seria de um ser humano, sem errar?
+          O ser humano erra e aprende com os erros. E mais ainda quando perde, valoriza.
+          Tenho muito medo de perder você. Você é uma pessoa bastante especial pra mim, soube me aguentar por tooooodo esse tempo,
+          merece um bolo haha, to brincando! Mas é verdade. Sei que sou uma pessoa difícil de lidar, difícil de entender, dificil
+          de me expressar e demonstrar o que sinto, mas não desista de mim. Apesar de eu parecer forte por fora, sem emoções.
+          Por dentro, estou explodindo de sentimentos. Basicamente, eu fiz esse pequeno presente, simples mas pra mostrar pra
+          você que queria saber um pouco mais de mim, primeiro, o que eu faço? Eu faço sistemas basicamente tipo esse pequeno site,
+          usei essa vantagem para mostrar pra você o que é minha vida em relação a trabalho. Segundo, o quanto eu gosto de você e
+          me expressar através daqui. Terceiro, para comemorar esse dia que conheci essa pessoa maravilhosa.
+          Annie, sei que quer que eu mude um pouco e está certa, sim, tenho que mudar. Um homem como eu, como estou agora,
+          confuso e tudo mais não serve. Mas estou mudando, estou disposto a mudar, por você, por mim
 
 
       </p>
-      <a href="fotos.php"> Nossas fotos! </a>
+
   </div>
 </div>
 
