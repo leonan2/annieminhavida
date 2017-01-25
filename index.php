@@ -54,7 +54,7 @@
           te apoiando, te dando colo, te dando carinho e todo meu amor pra você se confortar. Eu estou aqui pra você, só você. 
           Tem muitos caminhos que traçaremos juntos, sempre juntos, se você quiser, eu estou aqui. </p>
     
-                                                  <b>Eu te amo, Rosiane Freitas.</b>
+                                                <p class="decl">  <b>Eu te amo, Rosiane Freitas.</b> </p>
 
   </div>
 </div>
