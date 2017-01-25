@@ -22,6 +22,7 @@ p.decl {
 p.att {
       text-align: right;
       size: 14px;
+      padding-right: 10px;
  }
 
 h4 {
